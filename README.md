@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+### I'm Jason Chen 👋
+- 👯 I'm interestes in mahcine learning, distributed learning, security & privacy, optimization ...
+- 👯 I’m leaning to be a self-motivated researcher and developer
+- ⚡ C++ / Python.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jasonchen505&left_color=green&right_color=red)
