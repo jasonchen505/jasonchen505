@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 ### I'm Jason Chen 
 -  I'm interestes in mahcine learning ...
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonchen505&label=Profile%20views&color=10b40e&style=flat-square" alt="jasonchen505" /> </p>
